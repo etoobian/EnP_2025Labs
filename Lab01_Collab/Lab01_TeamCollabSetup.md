@@ -78,6 +78,7 @@ you'd like*
 8.  Explore geographic bidding density
 9.  Create a data dictionary
 10. Write EDA summary and client memo
+11. Prepare visualization summery for final report
 
 ------------------------------------------------------------------------
 
@@ -90,7 +91,7 @@ and plan next steps.
 
 | Team Member | Yesterday | Today | Blockers |
 |-------------|-----------|-------|----------|
-|             |           |       |          |
+| Khloud |Team meeting|Edited file |None 
 |             |           |       |          |
 |             |           |       |          |
 
@@ -110,6 +111,7 @@ and plan next steps.
 2.  Did your “Definition of Done” work? If not, what will you change?
 3.  Were communication channels effective?
 4.  How will you update your workflow next time?
+Everything is going well so far. Team communication and setup were clear. 
 
 **Action Items:**
 
@@ -129,7 +131,12 @@ and plan next steps.
 ## 7 Reflection Questions (Individual)
 
 1.  What was your role and what did you learn about team coordination?
+My role was report writing and data visualization. I learned how to coordinate 
+with my team using Git and avoid conflicts. 
 2.  How did the Kanban system help (or hinder) your progress?
+The Kanban board helped organize our tasks and made teamwork easier and clearer.
 3.  What’s one improvement you would apply in a real consulting project?
+I would spend more time checking data results before writing the report 
+to improve accuracy. 
 
 ------------------------------------------------------------------------
