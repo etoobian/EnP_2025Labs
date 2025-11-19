@@ -1,3 +1,8 @@
-# EnP_2025Labs  << ARCHIVED REPO:  DO NOT USE>>
+## Archived Repository — Do Not Use
 
-I will be posting here all of the labs for the course throughout the term. Clone the repo and create your own branch.
+This repository has been archived and is read-only. Data removed from files and history. Archived for PR metadata information for grading purposes.
+
+**Active repos:**
+
+- **Labs:** https://github.com/etoobian/STAT531_Labs
+- **Project:** https://github.com/etoobian/STAT531_Project
